@@ -1,7 +1,8 @@
 #!/bin/bash
 << help
 This is a shell script to take backups 
-can also be used with cron
+can also be used with cron.
+Make sure to test it first in test environment before using it on production.
 help
 
 source_dir="/home/ubuntu/devops-zero-to-hero/scripts"
