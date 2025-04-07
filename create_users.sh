@@ -1,4 +1,7 @@
 #!/bin/bash
+>> help
+This is just a user creation script.
+help
 
 echo "============== CREATE USERS ==============="
 
